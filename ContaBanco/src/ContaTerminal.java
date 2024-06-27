@@ -13,7 +13,7 @@ public class ContaTerminal {
         this.nome = nome;
         this.numAgencia = numAgencia;
         this.numConta = numConta;
-        this.saldo = 237.48;
+        this.saldo = 0;
     }
 
     public static void main(String[] args) {
